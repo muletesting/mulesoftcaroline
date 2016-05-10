@@ -52,7 +52,7 @@
         <password>Ppspeaktg06_res</password>
 	 <workerType>Micro</workerType>
         <redeploy>true</redeploy>
-        <environment>Sandbox</environment>
+        <environment>Production</environment>
     </configuration>
     <executions>
         <execution>
