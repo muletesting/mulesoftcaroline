@@ -48,8 +48,8 @@
     <configuration>
         <deploymentType>cloudhub</deploymentType>
         <muleVersion>3.7.2</muleVersion> 
-        <username>carolineparis4</username>
-        <password>Ppspeaktg06_res</password>
+        <username>xxx</username>
+        <password>xxxx</password>
 	 <workerType>Micro</workerType>
         <redeploy>true</redeploy>
         <environment>Production</environment>
